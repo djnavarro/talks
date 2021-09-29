@@ -1,0 +1,14 @@
+---
+title: "Danielle Navarro: Talks"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Links to selected talks I've given: 
+
+- https://talks.djnavarro.net/rstudioconf2020
+- https://talks.djnavarro.net/scistat2019
+- https://talks.djnavarro.net/user2018
